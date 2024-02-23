@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shubhi Soni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = 'right' alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJycXppcXlzeTVmeDVvaXpia3g1b2Z1dnRhejFkZHgyZWlpeHB2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align = 'right' alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhisoni13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhisoni13" /> </p>
 
