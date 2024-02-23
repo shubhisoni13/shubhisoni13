@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubhi-soni13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratishpk" height="30" width="40" /></a>
-<a href="https://fb.com/shubhisoni.soni.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.pratish.pk" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhisoni.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_pratish.pk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubhi-soni13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhisoni" height="30" width="40" /></a>
+<a href="https://fb.com/shubhisoni.soni.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhisoni" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhisoni.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhisoni" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Technologies
