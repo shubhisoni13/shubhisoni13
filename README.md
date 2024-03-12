@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhisoni13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhisoni13" /> </p>
 
-- 💬  **I have completed Bachelor of Technology from Rajasthan Technical University, Kota.**
+- 💬  **I am pursuing Bachelor of Technology from Rajasthan Technical University, Kota.**
 
-- 🌱 **Currently, focusing on Full Stack Web Developer.**
+- 🌱 **Currently, focusing on Front End Web Development.**
 
 - 📫 How to reach me **shubhisoni1301@gmail.com**
 
