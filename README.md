@@ -1,7 +1,7 @@
 ![logo](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg))
 
 <h1 align="center">Hi 👋, I'm Shubhi Soni</h1>
-<h3 align="center">A passionate Data Analytics from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align = 'right' alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
@@ -26,7 +26,7 @@
 ## ⚡ Technologies
 ### Language :
 
-![Python](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,8 +50,8 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MS Power BI](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=juyterNotebook&logoColor=white)
+![MS Power BI](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
 <h2><details><summary> 💻📊 GitHub Profile Stats
