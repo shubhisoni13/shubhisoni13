@@ -1,4 +1,4 @@
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaMccgfzEebeetJOP0E3IiVtNP37SfSqq4w&s)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaMccgfzEebeetJOP0E3IiVtNP37SfSqq4w&s)
 
 <h1 align="center">Hi 👋, I'm Shubhi Soni</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
