@@ -1,4 +1,4 @@
-![logo](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg))
+![logo](https://www.shutterstock.com/image-vector/data-analytics-network-background-icons-260nw-370289045.jpg)
 
 <h1 align="center">Hi 👋, I'm Shubhi Soni</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
