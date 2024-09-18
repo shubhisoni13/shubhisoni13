@@ -26,8 +26,6 @@
 ## ⚡ Technologies
 ### Language :
 
-Here are the badges for Python, Tableau, MS Excel, and Power BI:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
