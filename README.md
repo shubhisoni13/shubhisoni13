@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhisoni13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhisoni13" /> </p>
 
-- 💬  **I am pursuing Bachelor of Technology from Rajasthan Technical University, Kota.**
+- 💬  **I am recent B.Tech graduate in Computer Science Engineering from Rajasthan Technical University, Kota.**
 
 - 🌱 **Currently, focusing on Data Analytics.**
 
